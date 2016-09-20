@@ -1,0 +1,1 @@
+spark-submit --verbose --class com.epam.spark.OsCounter --master local /home/hdfs/spark1b_2.10-1.0.jar /training/spark/hw1/dataset.txt /training/spark/hw1/outputB
